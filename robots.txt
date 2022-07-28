@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://theswarnim.github.com/sitemap.xml
+Host: https://theswarnim.github.com
