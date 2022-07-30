@@ -1,12 +1,12 @@
 {
   "private": true,
   "name": "masterPortfolio",
-  "homepage": ".",
   "version": "0.1.0",
+  "homepage": ".",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b gh-pages -d build",
+    "deploy": "gh-pages -b main -d build",
     "eject": "react-scripts eject",
     "start": "react-scripts start",
     "test": "react-scripts test"
